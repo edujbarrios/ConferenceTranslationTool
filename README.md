@@ -31,9 +31,6 @@ This project is a web application that provides real-time speech-to-text transla
 
 The application will display the Spanish translation as subtitles on the screen.
 
-## GitHub Pages Deployment
-
-If you don't have a technical knowledge I will be setting up a live web version of this app soon:
 
 ## License
 MIT License
