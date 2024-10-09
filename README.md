@@ -1,4 +1,4 @@
-# ConferenceTranslationTool
+# Conference Translation Tool
 
 This project is a web application that provides real-time speech-to-text translation from English to Spanish using a camera feed. The application is designed to be compatible with GitHub Pages, and being a real helpful tool on the tranalations of conferences given in english to Spanish.
 
@@ -21,13 +21,13 @@ This project is a web application that provides real-time speech-to-text transla
 `pip install flask flask-cors googletrans==3.1.0a0`
 2. Run the Flask application:
 
-`python app.py`
+  `python app.py`
+
  3. Open a web browser and navigate to `http://localhost:5000`
-Usage
-
-
-4. Allow camera and microphone access when prompted by your browser.
-5. Speak clearly in English.
+ 
+## Usage
+* Allow camera and microphone access when prompted by your browser.
+* Speak clearly in English.
 
 The application will display the Spanish translation as subtitles on the screen.
 
@@ -35,9 +35,7 @@ The application will display the Spanish translation as subtitles on the screen.
 
 If you don't have a technical knowledge I will be setting up a live web version of this app soon:
 
-
-
-## License
+## License
 MIT License
 
 ## Contributing
